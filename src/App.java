@@ -7,5 +7,6 @@ public class App {
         System.out.println("i am learning git");
         System.out.println("dinesh reddy bijjam");
         System.out.println("this is for checking the .gitignore");
+        System.out.println("this the final statement");
     }
 }
